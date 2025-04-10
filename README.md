@@ -12,23 +12,23 @@ An interactive terminal-based portfolio to highlight projects, skills, and perso
 📌 JavaScript: Logic for handling user commands and interactions.  
 
 ## Installation & Usage
-### Clone the repository:
+#### Clone the repository:
 git clone https://piyussh37.github.io/Terminal-Portfolio/
 
-### Navigate to the project directory:
+##### Navigate to the project directory:
 cd terminal-portfolio
 
 ### Open index.html in a web browser.
 
 ## Commands
-help - Lists all available commands.  
-about - Displays information about the developer.  
-projects - Shows a list of projects with links.  
-skills - Lists my technical and creative abilities.  
-contact - Provides contact information.  
-Exit - Redirect to my personal web portfolio.  
+~ help - Lists all available commands.  
+~ about - Displays information about the developer.  
+~ projects - Shows a list of projects with links.  
+~ skills - Lists my technical and creative abilities.  
+~ contact - Provides contact information.  
+~ Exit - Redirect to my personal web portfolio.  
 
 ## Future Enhancements
-Customizable themes.
-User authentication and personalized settings.
+~ Customizable themes.  
+~ User authentication and personalized settings.
 
