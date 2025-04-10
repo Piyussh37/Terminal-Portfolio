@@ -13,7 +13,8 @@ An interactive terminal-based portfolio to highlight projects, skills, and perso
 
 ## Installation & Usage
 #### Clone the repository:
-git clone https://piyussh37.github.io/Terminal-Portfolio/
+```bash
+https://piyussh37.github.io/Terminal-Portfolio/
 
 ##### Navigate to the project directory:
 cd terminal-portfolio
