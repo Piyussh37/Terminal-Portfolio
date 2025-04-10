@@ -18,7 +18,7 @@ git clone https://piyussh37.github.io/Terminal-Portfolio/
 ##### Navigate to the project directory:
 cd terminal-portfolio
 
-### Open index.html in a web browser.
+#### Open index.html in a web browser.
 
 ## Commands
 ~ help - Lists all available commands.  
